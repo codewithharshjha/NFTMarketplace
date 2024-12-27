@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "axios": "^1.7.9",
+    "ethers": "^6.13.4",
+    "ipfs-http-client": "^60.0.1",
+    "openzeppelin-solidity": "^3.4.2",
+    "web3modal": "^1.9.12"
+  }
+}
